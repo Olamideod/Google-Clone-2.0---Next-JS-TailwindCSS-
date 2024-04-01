@@ -46,7 +46,7 @@ export default function Home() {
 
 
       {/* Avatar */}
-      <Avatar url="https://avatars.githubusercontent.com/u/101728177?v=4"/>
+      <Avatar url="https://i.ibb.co/7VmWfkf/olamide-studio-edit01.png"/>
       </div>
     </header>
     {/* body */}
@@ -65,7 +65,7 @@ export default function Home() {
       </div>
       <div className='flex flex-row  justify-center mt-8 sm:flex-row sm:space-x-4'>
         <button onClick={search} className='btn'>Google Search </button>
-        <button onClick={search} className='btn'>I'm Feeling Lucky</button>
+        <button onClick={search} className='btn'>I'm Feeling Happy</button>
       </div>
     </form>
     {/* footer */}
